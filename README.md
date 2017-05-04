@@ -1,7 +1,7 @@
 # PHP-Login
 An extremely simple PHP registration and login script.
 
-Features:
+Features:  
   Use of prepared statements  
   Password hashing  
   Form validation  
